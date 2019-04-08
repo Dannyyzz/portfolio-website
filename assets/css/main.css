@@ -326,6 +326,7 @@ input, select, textarea {
 	.align-right {
 		text-align: right;
 	}
+	
 
 /* Row */
 
@@ -2550,6 +2551,11 @@ input, select, textarea {
 		.image img {
 			border-radius: 0.25em;
 			display: block;
+		}
+
+		img.image#myface {
+			width: 100px;
+			height: 145px;
 		}
 
 		.image.left, .image.right {
